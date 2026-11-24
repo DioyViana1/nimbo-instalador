@@ -14,4 +14,10 @@ Para criar a conta é preciso ter um convite de quem já usa.
 
 **Windows:** se aparecer a tela azul de proteção, clique em *Mais informações* e *Executar assim mesmo*.
 
-**Mac:** arraste para Aplicativos e abra. Depois do aviso, vá em *Ajustes do Sistema*, *Privacidade e Segurança*, *Abrir Mesmo Assim*.
+**Mac:** o jeito mais simples é abrir [onimbo.pages.dev/baixar](https://onimbo.pages.dev/baixar) no Chrome e clicar em *Instalar no Mac*. Para o programa completo, cole no Terminal:
+
+```sh
+curl -fsSL https://onimbo.pages.dev/mac.sh | bash
+```
+
+Pelo arquivo baixado: arraste para Aplicativos, clique no Nimbo com o botão direito, *Abrir*, e *Abrir* de novo. No macOS 15 ou mais novo, use *Ajustes do Sistema*, *Privacidade e Segurança*, *Abrir Mesmo Assim*.
